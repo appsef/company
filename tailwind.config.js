@@ -25,7 +25,10 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      zIndex: ['hover', 'active'],
+      ringWidth: ['hover', 'active'],
+    },
   },
   plugins: [
     require('@tailwindcss/forms'),
