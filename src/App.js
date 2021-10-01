@@ -3,6 +3,7 @@ import './App.css';
 import AppBar from './components/AppBar';
 import CardSection from './components/CardSection';
 import Footer from './components/Footer';
+import PartnersSection from './components/PartnersSection';
 import Section from './components/Section';
 import SectionG from './components/SectionG';
 
@@ -15,6 +16,7 @@ function App() {
       <Section orientation="0"/>
       <Section orientation="1"/>
       <CardSection />
+      <PartnersSection />
       
       <Footer />
     </div>

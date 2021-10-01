@@ -15,7 +15,7 @@ const Card = ({ packageD }) => {
     }
 
     return (
-        <div className="px-6 py-6 w-max h-96 flex flex-col group justify-around backdrop-filter backdrop-blur-xl bg-opacity-100 hover:bg-opacity-40 bg-gray-200 rounded-2xl shadow-lg transition transform duration-500 ease-in-out hover:-translate-y-1 hover:scale-125 hover:z-20 hover:bg-weta ring-gray-400 ring-opacity-70 hover:ring-4 hover:shadow-xl">
+        <div className="px-6 py-6 w-max h-96 flex flex-col group justify-around backdrop-filter backdrop-blur-xl bg-opacity-100 hover:bg-opacity-40 bg-gray-200 rounded-2xl shadow-lg transition transform duration-500 ease-in-out hover:-translate-y-1 hover:scale-125 hover:z-10 hover:bg-weta ring-gray-400 ring-opacity-70 hover:ring-4 hover:shadow-xl">
 
             <p className="cursor-default font-body inline font-semibold text-weta group-hover:text-white ">
             {getIcon(packageD.id)}
