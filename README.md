@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Simple website template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Ui
+![Preview](https://user-images.githubusercontent.com/21008628/135612992-3a885473-5786-4c52-946c-c394945d7f67.png)
 
 ## Available Scripts
 
